@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  <a target="_blank" href="https://thierrydrmv.github.io/DeskLife/">Acessar a Landing Page</a>
+  <a href="https://thierrydrmv.github.io/DeskLife/" target="_blank">Acessar a Landing Page</a>
 </h3>
 
 # Indice
